@@ -1,0 +1,2 @@
+先阅读上级目录 MODIFICATION_CHECKLIST.md，以及本目录 README_MODE1_ADD.txt。
+本目录为Vitis/SDK参考补丁，不包含用户当前BSP中针对RTL8211FDI的定制文件。

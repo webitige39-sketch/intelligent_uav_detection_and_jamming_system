@@ -1,0 +1,21 @@
+# Vivado generated build outputs
+.Xil/
+*.cache/
+*.gen/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.jou
+*.log
+*.str
+*.pb
+# IDE local state
+.metadata/
+.analytics/
+RemoteSystemsTempFiles/
+xsim.dir/
+# Rebuilt output; original board binaries are retained
+build/output/
+__pycache__/
+*.pyc
